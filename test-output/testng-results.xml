@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="111" started-at="2017-06-13T14:43:34Z" finished-at="2017-06-13T14:43:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="111" started-at="2017-06-13T14:43:34Z" finished-at="2017-06-13T14:43:34Z">
+      <class name="xmlfile.NewTest1">
+        <test-method status="PASS" signature="login()[pri:0, instance:xmlfile.NewTest1@2bcfcb]" name="login" is-config="true" duration-ms="45" started-at="2017-06-13T07:43:34Z" finished-at="2017-06-13T07:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="addVendor()[pri:1, instance:xmlfile.NewTest1@2bcfcb]" name="addVendor" duration-ms="9" started-at="2017-06-13T07:43:34Z" finished-at="2017-06-13T07:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addVendor -->
+        <test-method status="PASS" signature="addCustomer()[pri:2, instance:xmlfile.NewTest1@2bcfcb]" name="addCustomer" duration-ms="5" started-at="2017-06-13T07:43:34Z" finished-at="2017-06-13T07:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method status="PASS" signature="addPrice()[pri:3, instance:xmlfile.NewTest1@2bcfcb]" name="addPrice" duration-ms="2" started-at="2017-06-13T07:43:34Z" finished-at="2017-06-13T07:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPrice -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:xmlfile.NewTest1@2bcfcb]" name="logout" is-config="true" duration-ms="0" started-at="2017-06-13T07:43:34Z" finished-at="2017-06-13T07:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- xmlfile.NewTest1 -->
+      <class name="xmlfile.NewTest4">
+        <test-method status="PASS" signature="deleteVendor()[pri:1, instance:xmlfile.NewTest4@1e8b406]" name="deleteVendor" duration-ms="2" started-at="2017-06-13T07:43:34Z" finished-at="2017-06-13T07:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteVendor -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:2, instance:xmlfile.NewTest4@1e8b406]" name="deleteCustomer" duration-ms="2" started-at="2017-06-13T07:43:34Z" finished-at="2017-06-13T07:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="deletePrice()[pri:3, instance:xmlfile.NewTest4@1e8b406]" name="deletePrice" duration-ms="3" started-at="2017-06-13T07:43:34Z" finished-at="2017-06-13T07:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePrice -->
+      </class> <!-- xmlfile.NewTest4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
